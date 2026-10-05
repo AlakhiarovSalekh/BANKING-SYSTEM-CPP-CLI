@@ -1,4 +1,4 @@
-# Banking System — C++ CLI
+# C++ Banking System CLI — OpenSSL SHA-256 & CSV Persistence
 
 [![C++](https://img.shields.io/badge/C%2B%2B-CLI-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![OpenSSL](https://img.shields.io/badge/OpenSSL-SHA--256-721412?logo=openssl&logoColor=white)](https://www.openssl.org/)
