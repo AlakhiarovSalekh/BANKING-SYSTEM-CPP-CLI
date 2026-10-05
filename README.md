@@ -70,7 +70,7 @@ git clone https://github.com/AlakhiarovSalekh/BANKING-SYSTEM-CPP-CLI.git
 cd BANKING-SYSTEM-CPP-CLI
 
 # Compile (requires OpenSSL)
-g++ banking.cpp -o banking -lssl -lcrypto
+g++ BankingManagementSystem.cpp -o banking -lssl -lcrypto
 
 # Run
 ./banking
