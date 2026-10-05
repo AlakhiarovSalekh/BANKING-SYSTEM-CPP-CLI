@@ -52,6 +52,8 @@ On Windows, run the produced executable in your terminal.
 
 Portability fixes, tests, input-validation improvements, documentation, and focused security improvements are welcome.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [ATM System C++](https://github.com/AlakhiarovSalekh/ATM-System-CPP) — procedural and OOP ATM/banking implementations.
