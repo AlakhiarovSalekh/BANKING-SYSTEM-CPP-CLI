@@ -52,6 +52,12 @@ On Windows, run the produced executable in your terminal.
 
 Portability fixes, tests, input-validation improvements, documentation, and focused security improvements are welcome.
 
+## More Projects by Salekh
+
+- [ATM System C++](https://github.com/AlakhiarovSalekh/ATM-System-CPP) — procedural and OOP ATM/banking implementations.
+- [C++ Projects](https://github.com/AlakhiarovSalekh/Cpp-Projects) — structured C++ learning and data structures.
+- [C Projects](https://github.com/AlakhiarovSalekh/C-Projects) — systems and networking projects in C.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
